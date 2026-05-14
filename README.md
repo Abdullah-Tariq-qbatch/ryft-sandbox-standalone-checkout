@@ -15,6 +15,9 @@ A zero-dependency, single-file HTML checkout page powered by the [Ryft Embedded 
 
 ## Usage
 
+#### Optional
+Deployed Page: [https://abdullah-tariq-qbatch.github.io/ryft-sandbox-standalone-checkout/](https://abdullah-tariq-qbatch.github.io/ryft-sandbox-standalone-checkout/)
+
 ### 1. Download the file
 
 ```
